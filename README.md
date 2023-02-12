@@ -21,5 +21,4 @@ A version of the Kodeco Introduction to Unity Scripting tutorial made for my Gam
 * Left Click to fire projectile
 * ESC key to open pause menu during game
 
-============================================================================================
 
